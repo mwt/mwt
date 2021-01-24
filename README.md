@@ -5,4 +5,4 @@ I'm always glad to talk to people who want to reach out. Here is some extra cont
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=lcYWoQYAAAAJ)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mattwthomas/)
 - 🦊 [Mozilla](https://people.mozilla.org/p/mwt)
-- 🔑 <a title="12E711999B101F6F7C0AEDBB2F3EB8E26FE75E85" href="https://keys.openpgp.org/vks/v1/by-fingerprint/12E711999B101F6F7C0AEDBB2F3EB8E26FE75E85">OpenPGP Key</a>
+- 🔑 <a title="12E711999B101F6F7C0AEDBB2F3EB8E26FE75E85" href="https://keyoxide.org/12E711999B101F6F7C0AEDBB2F3EB8E26FE75E85">Keyoxide (OpenPGP)</a>
