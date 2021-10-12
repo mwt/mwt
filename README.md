@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a microeconomic theorist who studies auctions, competition, decision theory, and financial markets. I have had some affiliation with the following schools:
+
+#### Northwestern University
+
+**Ph.D. in Economics:** *Sep 2017 - Present*
+
+**M.A. in Quantitative Economics and Econometrics:** *Sep 2017 - Jun 2018*
+
+#### Williams College
+
+**B.A. in Mathematics and Economics:** *Aug 2013 - Jun 2017*
+
 I'm always glad to talk to people who want to reach out. Here is some extra contact info (also available on [my website](https://mattwthomas.com)):
 - 🐘 <a title="mwt@mathstodon.xyz" rel="me" href="https://mathstodon.xyz/@mwt">Mastodon</a>
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=lcYWoQYAAAAJ)
