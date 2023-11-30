@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matthew W. Thomas, an Economics PhD candidate at Northwestern University. I am currently interested in microeconomic theory including contests, lobbying, and labor.
+I'm Matthew W. Thomas, an economist at the [Federal Trade Commission](https://www.ftc.gov/). I am currently interested in microeconomic theory including contests, lobbying, and labor.
 
 I'm always glad to talk to people who want to reach out. Here is some extra contact info (also available on [my website](https://www.matthewthom.as)):
 - 🐘 <a title="mwt@econtwitter.net" rel="me" href="https://econtwitter.net/@mwt">Mastodon</a>
