@@ -6,4 +6,4 @@ I'm always glad to talk to people who want to reach out. Here is some extra cont
 - 🐘 <a title="mwt@econtwitter.net" rel="me" href="https://econtwitter.net/@mwt">Mastodon</a>
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=lcYWoQYAAAAJ)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mattwthomas/)
-- 🔑 <a title="12E711999B101F6F7C0AEDBB2F3EB8E26FE75E85" href="https://keyoxide.org/12E711999B101F6F7C0AEDBB2F3EB8E26FE75E85">Keyoxide (OpenPGP)</a>
+- 🔑 <a title="6931045550B0248872EFB627864C3422893A85FE" href="https://keyoxide.org/6931045550B0248872EFB627864C3422893A85FE">Keyoxide (OpenPGP)</a>
